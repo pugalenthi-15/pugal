@@ -1,30 +1,29 @@
-import './App.css';
-import { useEffect, useState } from 'react';
+import React from "react";
+import Header from "./component/Head/Header";
+import Home from "./component/Hero/Home";
+import Features from "./component/Features/Features";
+import Portfolio from "./component/Portfolio/Portfolio";
+import Resume from "./component/Resume/Resume";
+import Testimonial from "./component/Testimonial/Testimonial";
+import Blog from "./component/Blog/Blog";
+import Contact from "./component/Contact/Contact";
+import Footer from "./component/Footer";
+import "./App.css";
 
-function App() {
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    // simulate loading
-    const timer = setTimeout(() => setLoading(false), 3000);
-    return () => clearTimeout(timer);
-  }, []);
-
+const App = () => {
   return (
-    <div className="App">
-      {loading ? (
-        <div className="loader-container">
-          <div className="spinner"></div>
-          <p>Loading Portfolio...</p>
-        </div>
-      ) : (
-        <header className="App-header">
-          <h1>👋 Hai, Welcome to Pugal's Portfolio</h1>
-          <p className="update-message">✨ Message updating soon...</p>
-        </header>
-      )}
-    </div>
+    <>
+      <Header />
+      <Home />
+      <Features />
+      <Portfolio />
+      <Resume />
+      <Testimonial />
+      <Blog />
+      <Contact />
+      <Footer />
+    </>
   );
-}
+};
 
 export default App;
