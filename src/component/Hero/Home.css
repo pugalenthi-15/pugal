@@ -28,7 +28,7 @@
   margin-top: 30px;
 }
 .hero_btn {
-  margin-top: 20%;
+  margin-top: 5%;
 }
 .hero_btn h4 {
   font-weight: 500;
@@ -61,11 +61,11 @@
   border-radius: 10px;
   height: 580px;
   width: 510px;
-  margin-top: 20%;
+  margin-top: 5%;
 }
 .hero .right_img img {
   position: absolute;
-  top: 0;
+  top: 28px;
   right: 10%;
   width: 510px;
 }

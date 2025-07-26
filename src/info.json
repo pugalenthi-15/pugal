@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "Pugalenthi N",
+    "logo": "pugal/images/profile1.png",
+    "mobile": "+91 7502669583",
+    "email": "pugal@example.com",
+    "address": "Coimbatore, Tamil Nadu",
+    "facebook": "https://facebook.com/pugazh",
+    "instagram": "https://instagram.com/keep_be_peace",
+    "linkedIn": "https://linkedin.com/in/PUGALENTHI"
+  },
+  "nav": [
+    {
+      "title": "Home",
+      "path": "#home"
+    },
+    {
+      "title": "Features",
+      "path": "#features"
+    },
+    {
+      "title": "Portfolio",
+      "path": "#portfolio"
+    },
+    {
+      "title": "Resume",
+      "path": "#resume"
+    },
+    {
+      "title": "Contact",
+      "path": "#contact"
+    }
+   
+  ],
+   "typewrite_content":[" Professional Coder."," Fullstack Developer"],
+   "description":"As a Fullstack Developer with a strong focus on backend technologies, I specialize in building scalable systems, secure APIs, and efficient data flows. I simplify complex logic into clean, maintainable code — turning real-world problems into powerful, production-ready solutions."
+}
