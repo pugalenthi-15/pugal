@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/pugal/static/css/main.fae77a54.css",
-    "main.js": "/pugal/static/js/main.dd8a57da.js",
+    "main.css": "/pugal/static/css/main.fb189880.css",
+    "main.js": "/pugal/static/js/main.c49c81bb.js",
     "static/js/453.ad7768ec.chunk.js": "/pugal/static/js/453.ad7768ec.chunk.js",
-    "static/media/hero.png": "/pugal/static/media/hero.caa3d5e2872e84d77cf2.png",
     "static/media/contact1.png": "/pugal/static/media/contact1.8ddfbfd11798f881db54.png",
     "index.html": "/pugal/index.html",
-    "main.fae77a54.css.map": "/pugal/static/css/main.fae77a54.css.map",
-    "main.dd8a57da.js.map": "/pugal/static/js/main.dd8a57da.js.map",
+    "main.fb189880.css.map": "/pugal/static/css/main.fb189880.css.map",
+    "main.c49c81bb.js.map": "/pugal/static/js/main.c49c81bb.js.map",
     "453.ad7768ec.chunk.js.map": "/pugal/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fae77a54.css",
-    "static/js/main.dd8a57da.js"
+    "static/css/main.fb189880.css",
+    "static/js/main.c49c81bb.js"
   ]
 }
