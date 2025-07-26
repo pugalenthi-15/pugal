@@ -79,19 +79,19 @@ const Home = () => {
                   <img src={skill3} alt="" />
                 </button> */}
                 <button className="btn_shadow">
-                  <img src="pugal/images/laravel.png" alt="" />
+                  <img src="https://pugalenthi-15.github.io/pugal/images/laravel.png" alt="" />
                 </button>
                 <button className="btn_shadow">
-                  <img src="pugal/images/django.png" alt="" />
+                  <img src="https://pugalenthi-15.github.io/pugal/images/django.png" alt="" />
                 </button>
                 <button className="btn_shadow">
-                  <img src="pugal/images/python.png" alt="" />
+                  <img src="https://pugalenthi-15.github.io/pugal/images/python.png" alt="" />
                 </button>
                 {/* <button className="btn_shadow">
                   <img src="/images/skills/mysql.png" alt="" />
                 </button> */}
                 <button className="btn_shadow">
-                  <img src="pugal/images/github.png" alt="" />
+                  <img src="https://pugalenthi-15.github.io/pugal/images/github.png" alt="" />
                 </button>
               </div>
             </div>

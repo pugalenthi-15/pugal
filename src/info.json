@@ -1,7 +1,8 @@
 {
+  "base_url":"https://pugalenthi-15.github.io/",
   "profile": {
     "name": "Pugalenthi N",
-    "logo": "pugal/images/profile1.png",
+    "logo": "https://pugalenthi-15.github.io/pugal/images/profile1.png",
     "mobile": "+91 7502669583",
     "email": "pugal@example.com",
     "address": "Coimbatore, Tamil Nadu",
